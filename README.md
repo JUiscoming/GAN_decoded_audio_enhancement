@@ -15,10 +15,13 @@ The spectral normalization is used due to training stability.
 # Examples
 
 Original waveform (p232_005.wav; VCTK)
+
 ![p232_005_original](https://user-images.githubusercontent.com/33240322/100219656-9e569000-2f59-11eb-8928-1c5f0da45093.png)
 
 Decoded waveform
+
 ![p232_005_decoded](https://user-images.githubusercontent.com/33240322/100219742-b3332380-2f59-11eb-97f5-a7f51c3f2299.png)
 
 Enhanced waveform
+
 ![p232_005_enhanced](https://user-images.githubusercontent.com/33240322/100219753-b8906e00-2f59-11eb-9dce-3927c2c2b62c.png)
