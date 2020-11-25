@@ -2,7 +2,9 @@
 
 The unofficial PyTorch Implementation of "Audio codec enhancement with generative adversarial networks." (20' ICASSP)
 
-These codes are the unofficial implementation of "Audio codec enhancement with generative adversarial networks" [1].
+The spectral holes disappeared. but harmonic noise appeared.
+
+The spectral normalization is used due to training stability.
 
 # Loss plot
 
